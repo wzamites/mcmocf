@@ -20,6 +20,7 @@
 .App-link {
   color: #09d3ac;
 }
+
 /*
 .colored {
   background-color: black!important;
@@ -33,15 +34,25 @@
     bottom: 30%!important;
 }
 
-.mcmocfLogo {
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-filter: drop-shadow(0 0 .25rem black);
+@media screen and (max-width: 500px) {
+  .mcmocfLogo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+  filter: drop-shadow(0 0 .25rem black);
+  }
+}
+
+@media screen and (min-width: 500px) {
+  .mcmocfLogo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+  filter: drop-shadow(0 0 .25rem black);
+  }
 }
 
 .App-header {
-  background-color: white;
   min-height: 70vh;
   display: flex;
   flex-direction: column;
@@ -52,7 +63,7 @@ filter: drop-shadow(0 0 .25rem black);
 }
 
 .masthead {
-  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('/pic4.jpg');
+  background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url('/pic4.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
