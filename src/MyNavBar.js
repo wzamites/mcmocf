@@ -35,6 +35,9 @@ function MyNavBar() {
             target="_blank"
             />
           </Nav.Link>
+          <Nav.Link href="https://instagram.com/mcmocf" target="_blank">
+            <img src="/instagram-brands.svg" width="30" height="30" className="d-inline-block align-top" alt="instagram"/>
+          </Nav.Link>
           <Nav.Link href="https://twitter.com/mcmocf" target="_blank">
             <img
             src="/twitter-square-brands.svg"
@@ -43,9 +46,6 @@ function MyNavBar() {
             className="d-inline-block align-top"
             alt="twitter"
             />
-          </Nav.Link>
-          <Nav.Link href="https://instagram.com/mcmocf" target="_blank">
-            <img src="/instagram-brands.svg" width="30" height="30" className="d-inline-block align-top" alt="instagram"/>
           </Nav.Link>
         </Nav>
       </Navbar.Collapse>
