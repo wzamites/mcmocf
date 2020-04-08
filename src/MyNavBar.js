@@ -15,8 +15,7 @@ function MyNavBar() {
       <Navbar.Brand href="./">
       <img
       src={logo}
-      height="60"
-      className="d-inline-block align-top"
+      className="d-inline-block align-top mcmocfHeight"
       alt="React Bootstrap logo"
       />
       </Navbar.Brand>

@@ -103,3 +103,16 @@
 .carouselSize {
   width: 320px
 }
+
+
+@media screen and (max-width: 360px) {
+  .mcmocfHeight {
+    height: 30px
+  }
+}
+
+@media screen and (min-width: 360px) {
+  .mcmocfHeight {
+    height: 60px
+  }
+}
