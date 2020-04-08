@@ -12,7 +12,7 @@ function MyNavBar() {
   return (
     <Navbar collapseOnSelect bg="light" expand="lg">
     <Container>
-      <Navbar.Brand href="/">
+      <Navbar.Brand href="./">
       <img
       src={logo}
       height="60"
