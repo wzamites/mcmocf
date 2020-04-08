@@ -4,6 +4,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
+import michele from './img/Michele-Photo.jpg'
 
 function About() {
   return (
@@ -21,7 +22,7 @@ with financial need.
           <br />
           <Row>
           <Col xs={12} md={6}>
-          <Image src="Michele-Photo.jpg" className="michelePhoto" roundedCircle />
+          <Image src={michele} className="michelePhoto" roundedCircle />
           </Col>
           <Col xs={12} md={6}>
           <br />

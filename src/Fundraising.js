@@ -6,6 +6,9 @@ import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
 import Carousel from 'react-bootstrap/Carousel'
 import Button from 'react-bootstrap/Button'
+import university from './img/university-solid.svg'
+import microscope from './img/microscope-solid.svg'
+import golf from './img/golf-ball-solid.svg'
 
 function Fundraising() {
   return (
@@ -23,7 +26,7 @@ function Fundraising() {
           <Row>
             <Col xs={12} md={4}>
             <img
-            src="/university-solid.svg"
+            src={university}
             width="90"
             height="90"
             className="d-inline-block align-top"
@@ -39,7 +42,7 @@ function Fundraising() {
             </Col>
             <Col xs={12} md={4}>
             <img
-            src="/microscope-solid.svg"
+            src={microscope}
             width="90"
             height="90"
             className="d-inline-block align-top"
@@ -55,7 +58,7 @@ function Fundraising() {
             </Col>
             <Col xs={12} md={4}>
             <img
-            src="/golf-ball-solid.svg"
+            src={golf}
             width="90"
             height="90"
             className="d-inline-block align-top"
