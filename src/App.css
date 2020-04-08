@@ -79,7 +79,27 @@
   color: #149da6!important;
 }
 
-.michelePhoto {
-  width: 320px;
-  border-radius: 50%
+. {
+
+}
+
+@media screen and (max-width: 375px) {
+  .michelePhoto {
+    width: 290px;
+  }
+}
+
+@media screen and (min-width: 375px) {
+  .michelePhoto {
+    width: 320px;
+  }
+}
+
+.alternateSection {
+  background-color: #149da6!important;
+  color: white;
+}
+
+.carouselSize {
+  width: 320px
 }
