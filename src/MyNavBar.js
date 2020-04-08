@@ -19,8 +19,8 @@ function MyNavBar() {
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav" className="centerText">
         <Nav className="mr-auto">
-          <Nav.Link href="#about">About</Nav.Link>
           <Nav.Link href="#golf">Golf Outing</Nav.Link>
+          <Nav.Link href="#about">About</Nav.Link>
           <Nav.Link href="#fundraising">Fundraising</Nav.Link>
           <Nav.Link href="#contact">Contact Us</Nav.Link>
         </Nav>
