@@ -1,17 +1,19 @@
 import React from 'react';
 import Footer from './Footer'
+import Fundraising from './Fundraising'
 import './App.css';
 
 import MyNavBar from './MyNavBar.js'
-import HeaderCarousel from './HeaderCarousel'
+import Header from './Header'
 import About from './About'
 
 function App() {
   return (
     <div>
       <MyNavBar />
-      <HeaderCarousel />
+      <Header />
       <About />
+      <Fundraising />
       <Footer />
     </div>
   );
