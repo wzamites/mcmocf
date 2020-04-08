@@ -20,10 +20,10 @@ with financial need.
           <br />
           <br />
           <Row>
-          <Col>
+          <Col xs={12} md={6}>
           <Image src="Michele-Photo.jpg" className="michelePhoto" roundedCircle />
           </Col>
-          <Col>
+          <Col xs={12} md={6}>
           <br />
           <br />
           <br />
