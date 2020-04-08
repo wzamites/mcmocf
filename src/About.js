@@ -11,10 +11,10 @@ function About() {
     <br />
     <br />
     <br />
-          <h3>
-          Our mission is raise money for the causes
+          <h2>
+          Our mission is to raise money for the causes
 closest to Michele’s heart—
-</h3><h5>fundraising for Ovarian Cancer research, and supporting students
+</h2><h5>raising awareness and fundraising for Ovarian Cancer research, and supporting students
 with financial need.
           </h5>
           <br />
