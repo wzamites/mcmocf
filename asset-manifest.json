@@ -1,25 +1,33 @@
 {
   "files": {
-    "main.css": "/mcmocf/static/css/main.1187fa96.chunk.css",
-    "main.js": "/mcmocf/static/js/main.9878eac5.chunk.js",
-    "main.js.map": "/mcmocf/static/js/main.9878eac5.chunk.js.map",
-    "runtime-main.js": "/mcmocf/static/js/runtime-main.98973fe9.js",
-    "runtime-main.js.map": "/mcmocf/static/js/runtime-main.98973fe9.js.map",
+    "main.css": "/mcmocf/static/css/main.d3a28013.chunk.css",
+    "main.js": "/mcmocf/static/js/main.e38f1781.chunk.js",
+    "main.js.map": "/mcmocf/static/js/main.e38f1781.chunk.js.map",
+    "runtime-main.js": "/mcmocf/static/js/runtime-main.08c4c0e6.js",
+    "runtime-main.js.map": "/mcmocf/static/js/runtime-main.08c4c0e6.js.map",
     "static/css/2.de424728.chunk.css": "/mcmocf/static/css/2.de424728.chunk.css",
-    "static/js/2.3d54be9f.chunk.js": "/mcmocf/static/js/2.3d54be9f.chunk.js",
-    "static/js/2.3d54be9f.chunk.js.map": "/mcmocf/static/js/2.3d54be9f.chunk.js.map",
+    "static/js/2.accf7cb1.chunk.js": "/mcmocf/static/js/2.accf7cb1.chunk.js",
+    "static/js/2.accf7cb1.chunk.js.map": "/mcmocf/static/js/2.accf7cb1.chunk.js.map",
     "index.html": "/mcmocf/index.html",
-    "precache-manifest.46e0c0442003e1b2152131b328e274ba.js": "/mcmocf/precache-manifest.46e0c0442003e1b2152131b328e274ba.js",
+    "precache-manifest.9e730c3db6ce9af6f5fae8f773eaff75.js": "/mcmocf/precache-manifest.9e730c3db6ce9af6f5fae8f773eaff75.js",
     "service-worker.js": "/mcmocf/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/mcmocf/static/css/2.de424728.chunk.css.map",
-    "static/css/main.1187fa96.chunk.css.map": "/mcmocf/static/css/main.1187fa96.chunk.css.map",
-    "static/js/2.3d54be9f.chunk.js.LICENSE.txt": "/mcmocf/static/js/2.3d54be9f.chunk.js.LICENSE.txt"
+    "static/css/main.d3a28013.chunk.css.map": "/mcmocf/static/css/main.d3a28013.chunk.css.map",
+    "static/media/MCMOCF_Logo.png": "/mcmocf/static/media/MCMOCF_Logo.db462982.png",
+    "static/media/Michele-Photo.jpg": "/mcmocf/static/media/Michele-Photo.1f329288.jpg",
+    "static/media/facebook-square-brands.svg": "/mcmocf/static/media/facebook-square-brands.685cf631.svg",
+    "static/media/golf-ball-solid.svg": "/mcmocf/static/media/golf-ball-solid.65004f57.svg",
+    "static/media/instagram-brands.svg": "/mcmocf/static/media/instagram-brands.66130ef7.svg",
+    "static/media/microscope-solid.svg": "/mcmocf/static/media/microscope-solid.4c108bb5.svg",
+    "static/media/App.css": "/mcmocf/static/media/pic5.1232890a.jpg",
+    "static/media/twitter-square-brands.svg": "/mcmocf/static/media/twitter-square-brands.fbe73cef.svg",
+    "static/media/university-solid.svg": "/mcmocf/static/media/university-solid.5d50710f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.98973fe9.js",
+    "static/js/runtime-main.08c4c0e6.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.3d54be9f.chunk.js",
-    "static/css/main.1187fa96.chunk.css",
-    "static/js/main.9878eac5.chunk.js"
+    "static/js/2.accf7cb1.chunk.js",
+    "static/css/main.d3a28013.chunk.css",
+    "static/js/main.e38f1781.chunk.js"
   ]
 }
