@@ -73,7 +73,7 @@ function Fundraising() {
           </Row>
           <br />
           <br />
-          <Button variant="light" size="lg">Donate Today</Button>
+          <Button variant="outline-light" size="lg">Donate Today</Button>
           <br />
           <br />
     </Container>

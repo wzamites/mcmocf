@@ -10,8 +10,8 @@ function Header() {
         <h2>Friday, October 23<sup>rd</sup>, 2020</h2>
       </div>
       <p>
-        <Button variant="light">Register</Button>{' '}
-        <Button variant="light">Become a Sponsor</Button>{' '}
+        <Button variant="outline-light">Register</Button>{' '}
+        <Button variant="outline-light">Become a Sponsor</Button>{' '}
       </p>
     </header>
   );
