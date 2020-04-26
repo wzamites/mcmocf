@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "190a6725ab11da363a16203c1c538844",
+    "revision": "4c6326beedf8aa2b9ba9187b746d934d",
     "url": "/mcmocf/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mcmocf/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "273262df21a119b2c6e0",
+    "revision": "ac20b1c4470bcf8384fa",
     "url": "/mcmocf/static/css/main.99aa6220.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mcmocf/static/js/2.bdcc1c4d.chunk.js"
   },
   {
-    "revision": "273262df21a119b2c6e0",
-    "url": "/mcmocf/static/js/main.b477d135.chunk.js"
+    "revision": "ac20b1c4470bcf8384fa",
+    "url": "/mcmocf/static/js/main.57949553.chunk.js"
   },
   {
     "revision": "b092f82f8296789f56b5",
