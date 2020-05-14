@@ -16,7 +16,7 @@ function MyNavBar() {
       <img
       src={logo}
       className="d-inline-block align-top mcmocfHeight"
-      alt="React Bootstrap logo"
+      alt="MCMOCF Logo"
       />
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
